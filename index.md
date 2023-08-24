@@ -24,3 +24,7 @@
 while true:
   print("Loading...")
 ```
+- [x] Program loaded
+- [x] User is waiting
+- [ ] user is annoyed
+- [ ] computer thrown out if wndow 
